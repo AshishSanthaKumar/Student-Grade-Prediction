@@ -1,2 +1,2 @@
 # Student-Success-Prediction
-Advanced Regression Techniques
+Predicting the Student Success (Final Grade) using different Regression Techniques
